@@ -23,9 +23,6 @@ header:
     - label: About
       url: /about/
       style: link
-    - label: Contact
-      url: /contact/
-      style: link
 footer:
   content: '&copy; W. Andrew Barr'
   has_social: false
