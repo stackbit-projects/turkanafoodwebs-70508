@@ -73,7 +73,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Projects
-    subtitle: An optional subtitle of the section
+    subtitle: Interrelated components of the food webs project
     posts_number: 3
     col_number: three
     actions:
