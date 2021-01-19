@@ -1,4 +1,4 @@
-title: Stackbit Exto Theme
+title: Turkana Foodwebs
 baseurl: /
 permalink: '/:title/'
 collections:
@@ -15,10 +15,10 @@ header:
       url: /
       style: link
     - label: People
-      url: /portfolio/
+      url: /people/
       style: link
     - label: Projects
-      url: /blog/
+      url: /projects/
       style: link
     - label: About
       url: /about/
