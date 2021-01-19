@@ -7,8 +7,10 @@ sections:
     title: >-
       Did an increasingly carnivorous Homo erectus cause Pleistocene mammal
       extinctions in eastern Africa?
-    content: |2
-       Our team is studying the ecomorphologyand stable carbon isotopes of fossil carnivores, and applying cutting edge paleo food web modeling to find out.
+    content: >
+      Our team is studying the ecomorphology and stable carbon isotopes of
+      fossil carnivores, and applying cutting edge paleo food web modeling to
+      find out.
     actions: []
   - section_id: latest-projects
     type: section_portfolio
