@@ -42,15 +42,5 @@ sections:
       observed record of mammal extinctions as a strong test of the ancient
       human impacts hypothesis.
     actions: []
-  - section_id: latest-posts
-    type: section_posts
-    title: Projects
-    subtitle: Interrelated components of the food webs project
-    posts_number: 3
-    col_number: three
-    actions:
-      - label: View Blog
-        url: blog
-        style: button
 layout: advanced
 ---
