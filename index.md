@@ -10,10 +10,7 @@ sections:
       extinctions in eastern Africa? Our team is studying the ecomorphologyand
       stable carbon isotopes of fossil carnivores, and applying cutting edge
       paleo food web modeling to find out. 
-    actions:
-      - label: Let's talk
-        url: /contact
-        style: button
+    actions: []
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
