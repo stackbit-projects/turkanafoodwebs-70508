@@ -4,7 +4,7 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-description: A portfolio theme with a blog
+description: Plio-Pleistocene food webs webs of the Turkana Basin
 color_scheme: light
 accent_color: pink
 header:
@@ -14,10 +14,10 @@ header:
     - label: Home
       url: /
       style: link
-    - label: Portfolio
+    - label: People
       url: /portfolio/
       style: link
-    - label: Blog
+    - label: Projects
       url: /blog/
       style: link
     - label: Style Guide
