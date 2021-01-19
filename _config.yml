@@ -4,7 +4,7 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-description: Pleistocene food webs webs of the Turkana Basin
+description: Plio-Pleistocene food webs webs of the Turkana Basin
 color_scheme: light
 accent_color: pink
 header:
