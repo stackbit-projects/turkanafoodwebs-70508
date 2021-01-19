@@ -1,6 +1,6 @@
 ---
 title: Ecomorphology
-subtitle: Understanding prey acquisition
+subtitle: Understanding prey acquisition of Turkana Basin carnivores
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
