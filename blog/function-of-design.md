@@ -1,6 +1,6 @@
 ---
 title: Ecomorphology of Turkana Basin carnivores
-subtitle: 'A interesting tale about function of design '
+subtitle: A interesting tale about function of design
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
