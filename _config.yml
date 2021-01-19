@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 description: Plio-Pleistocene food webs webs of the Turkana Basin
 color_scheme: dark
-accent_color: violet
+accent_color: green
 header:
   title: Turkana Foodwebs
   has_nav: true
