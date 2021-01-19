@@ -31,7 +31,7 @@ header:
       style: link
 footer:
   content: '&copy; W. Andrew Barr'
-  has_social: true
+  has_social: false
   social_links:
     - label: Instagram
       url: 'https://www.instagram.com/'
