@@ -4,7 +4,7 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-description: A portfolio theme with a blog
+description: Paleo food webs of the Turkana Basin
 color_scheme: light
 accent_color: pink
 header:
