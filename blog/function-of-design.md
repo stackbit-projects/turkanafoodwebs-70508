@@ -5,7 +5,7 @@ excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
 date: '2018-01-15'
-thumb_image_alt: A table tennis racket on a pink background
+thumb_image_alt: ''
 image: images/4.jpg
 image_alt: A table tennis racket on a pink background
 layout: post
