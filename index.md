@@ -5,8 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: >-
-      Did an increasingly carnivorous Homo erectus cause Pleistocene mammal
-      extinctions in eastern Africa?
+      Did a carnivorous Homo erectus cause Pleistocene mammal extinctions in
+      Africa?
     content: >
       To find out, our team is studying the ecomorphology and stable carbon
       isotopes of fossil carnivores, and applying cutting edge paleo food web
