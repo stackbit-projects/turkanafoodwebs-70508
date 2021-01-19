@@ -4,7 +4,9 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Turkana Foodwebs
+    title: >-
+      Did an increasingly carnivorous Homo erectus cause Pleistocene mammal
+      extinctions in eastern Africa?
     content: |2
        Our team is studying the ecomorphologyand stable carbon isotopes of fossil carnivores, and applying cutting edge paleo food web modeling to find out.
     actions: []
