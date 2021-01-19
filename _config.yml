@@ -17,7 +17,7 @@ header:
     - label: People
       url: /portfolio/
       style: link
-    - label: Blog
+    - label: Projects
       url: /blog/
       style: link
     - label: Style Guide
